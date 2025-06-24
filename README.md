@@ -24,5 +24,5 @@ Instructions:
 8. Run server
    - `npm start`
 9. Open `localhost:3000` in the browser for client app.
-10. Open `localhost:5000/docs` for swagger API.
+10. Open `localhost:5001/docs` for swagger API.
 
