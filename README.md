@@ -2,7 +2,9 @@ Wobble - a social media application for developers
 
 Group No - 15
 
-GitHub Repo - https://github.com/bhavesh-20/Wobble.git
+GitHub Main Repo - https://github.com/bhavesh-20/Wobble.git
+Migrated version : https://github.com/kart2405/wobble-PG-.git
+
 
 Team:
 Kaushik Rishi : S20190010088
