@@ -1,0 +1,9 @@
+{
+    "DATABASE_URL": "postgresql://postgres:2405@localhost:5432/wobble",
+    "JWT_SECRET": "secret",
+    "GITHUB_API_CLIENT_ID": "",
+    "GITHUB_API_CLIENT_SECRET": "",
+    "CLOUDINARY_CLOUD_NAME": "dps3fsm7c",
+    "CLOUDINARY_API_KEY": "283534755288584",
+    "CLOUDINARY_API_SECRET": "9zzbgApTLA93KNCv48UfkWJ3YTk"
+  }
