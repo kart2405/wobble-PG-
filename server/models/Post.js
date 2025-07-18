@@ -45,19 +45,19 @@ const Comment = sequelize.define('Comment', {
     primaryKey: true,
     autoIncrement: true
   },
-  name: {
+      name: {
     type: DataTypes.STRING,
     allowNull: false
-  },
-  userId: {
+      },
+      userId: {
     type: DataTypes.STRING,
     allowNull: false
-  },
-  avatar: {
+      },
+      avatar: {
     type: DataTypes.STRING,
     allowNull: false
-  },
-  text: {
+      },
+      text: {
     type: DataTypes.TEXT,
     allowNull: false
   }
